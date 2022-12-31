@@ -76,6 +76,13 @@ hist(rio_csv$sex,
      xlab="")
 # Histogram for categorical variables
 
+hist(rio_csv$sex [rio_csv$ulcer == 1],
+     xlim= c(0,3),
+     breaks= 3,
+     main = paste("Presence of ulcer in men and women",
+                  "0=female 1=male"),
+     xlab = "",
+     col = "blue")
 
 par(mfrow = c(2,1)) # combining two histograms in one plot
 hist(rio_csv$status [rio_csv$sex == 1],
