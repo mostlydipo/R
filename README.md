@@ -13,6 +13,6 @@ had died from causes unrelated to their melanoma.
  thickness - Tumour thickness in mm.
  ulcer - Indicator of ulceration; 1=present, 0=absent.
 
-### Refer to the Pdf file(Melanoma assignment) for indepth understanding ###
-### There are to different Exploratory data analysis carried out in this repository ###
+# Refer to the Pdf file (My Melanoma) for indepth understanding #
+# There are to different Exploratory data analysis carried out in this repository #
 
