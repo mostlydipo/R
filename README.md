@@ -14,5 +14,5 @@ had died from causes unrelated to their melanoma.
  ulcer - Indicator of ulceration; 1=present, 0=absent.
 
 # Refer to the Pdf file (My Melanoma) for indepth understanding #
-# There are to different Exploratory data analysis carried out in this repository #
+# There are two different Exploratory Data Analysis carried out in this repository #
 
